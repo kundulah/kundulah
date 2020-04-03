@@ -1,4 +1,8 @@
 file6
 
 
+<<<<<<< HEAD
 bug fixed date in master branch
+=======
+bug fixed in bugfix braanch
+>>>>>>> bugfix
